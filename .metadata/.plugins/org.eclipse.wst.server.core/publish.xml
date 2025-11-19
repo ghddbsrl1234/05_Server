@@ -2,4 +2,5 @@
 <publish-info>
   <server id="ServletProject Server" path="publish0.dat"/>
   <server id="JSP1 Server" path="publish1.dat"/>
+  <server id="JSP2 Server" path="publish2.dat"/>
 </publish-info>

@@ -57,3 +57,19 @@
 11월 18, 2025 15:34:40.14 Created TensorFlow Lite XNNPACK delegate for CPU.
 11월 18, 2025 15:34:40.29 [5516:7496:1118/153440.289:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
 11월 18, 2025 15:35:03.13 [5516:7496:1118/153503.137:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+
+11월 19, 2025 11:27:12.90 NEW SESSION
+11월 19, 2025 11:27:12.90 [13756:6996:1119/112712.902:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 11:27:13.29 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2025 11:27:35.14 [13756:6996:1119/112735.144:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 19, 2025 14:05:50.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2025 14:05:50.22 [9152:3656:1119/140550.226:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 19, 2025 14:19:35.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2025 14:19:35.35 [1620:4760:1119/141935.357:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:19:58.39 [1620:4760:1119/141958.392:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:20:42.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2025 14:20:42.10 [13580:16720:1119/142042.100:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:21:03.64 [13580:16720:1119/142103.643:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:21:49.83 [13580:16720:1119/142149.833:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:23:46.64 [13580:16720:1119/142346.639:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2025 14:26:48.83 [13580:16720:1119/142648.833:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
