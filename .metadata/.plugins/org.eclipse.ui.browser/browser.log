@@ -96,3 +96,30 @@
 11월 20, 2025 16:46:19.97 [5980:18096:1120/164619.972:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
 11월 20, 2025 16:46:49.57 [5980:18096:1120/164649.569:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
 11월 20, 2025 16:47:32.05 [5980:18096:1120/164732.051:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 21, 2025 09:32:10.99 NEW SESSION
+11월 21, 2025 09:32:11.00 [3976:16672:1121/093210.995:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 09:32:11.40 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 09:32:37.44 [3976:16672:1121/093237.441:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 12:23:15.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 12:23:15.24 [12972:3628:1121/122315.248:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 12:23:43.04 [12972:3628:1121/122343.044:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 12:32:20.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 12:32:20.40 [17964:5932:1121/123220.406:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 15:23:58.03 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 15:23:58.17 [6276:8632:1121/152358.177:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 15:24:19.06 [6276:8632:1121/152419.062:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+11월 21, 2025 15:24:23.99 [6276:8632:1121/152423.992:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 15:25:06.51 [6276:8632:1121/152506.511:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+11월 21, 2025 15:25:15.30 [6276:8632:1121/152515.305:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 15:32:06.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 15:32:06.16 [14296:15252:1121/153206.163:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 15:32:26.98 [14296:15252:1121/153226.983:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+11월 21, 2025 15:32:27.29 [14296:15252:1121/153227.297:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2025 15:33:17.92 [14296:15252:1121/153317.926:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+11월 21, 2025 15:33:26.59 [14296:15252:1121/153326.595:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 15:34:01.90 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 15:34:01.97 [16796:4220:1121/153401.979:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 15:36:18.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2025 15:36:18.40 [17844:10752:1121/153618.406:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2025 15:56:45.18 [17844:5564:1121/155645.187:ERROR:components\system_cpu\cpu_probe_win.cc:134] PdhGetFormattedCounterValue failed: Error (0x13D) while retrieving error. (0x800007D6)
